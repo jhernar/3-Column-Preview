@@ -26,6 +26,7 @@
     background-color: var(--very-light-gray);
     font-family: var(--lexend), var(--big-shoulders);
     font-size: 15px;
+		box-sizing: border-box;
 }
 
 .main__container {
@@ -33,4 +34,6 @@
 }
 
 
+    .attribution { font-size: 11px; text-align: center; }
+    .attribution a { color: hsl(228, 45%, 44%); }
 
